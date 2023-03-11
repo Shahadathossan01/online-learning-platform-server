@@ -1,0 +1,38 @@
+[
+    {
+        "document_id":"01",
+        "title":"C",
+        "Price":"50",
+        "instractor":{
+            "name":"danil",
+            "photoURL":"https://i.ibb.co/Xk4RYx2/programming.png"
+        },
+        "modules":[
+            {
+                "module":"What is C?",
+                "define":"C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972.It is a very popular language, despite being old.C is strongly associated with UNIX, as it was developed to write the UNIX operating system."
+            },
+            {
+                "module":"Syntax",
+                "define":"#include <stdio.h> is a header file library that lets us work with input and output functions, such as printf() (used in line 4). Header files add functionality to C programs."
+            },
+            {
+                "module":"OutPut",
+                "define":"To output values or print text in C, you can use the printf() function:"
+            },
+            {
+                "module":"C Comments",
+                "define":"Single-line comments start with two forward slashes (//)."
+            },
+            {
+                "module":"C Variables",
+                "define":"Variables are three types- int, flot, char."
+            },
+            {
+                "module":"C Operators",
+                "define":"C divides the operators into the following groups: 01.Arithmetic operators 02.Assignment operators 03.Comparison operators 04.Logical operators 05.Bitwise operators."
+            }
+           
+        ]
+    }
+]

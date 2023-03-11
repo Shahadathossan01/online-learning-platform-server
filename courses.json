@@ -1,0 +1,76 @@
+[
+    {
+        "id":"01",
+        "title":"Programming Languages",
+        "summery":"Coding The first thing that comes to everyones mind when hearing about Computer Science. Indeed Programming Languages are one of the basic and crucial aspects for all computer science students. Whether you want to go for the Software Development field, Artificial Intelligence domain, or any other field, having an understanding of programming concepts is always a must. There are numerous demanding programming languages Python, Java, Ruby, C, C++, etc. available in the market that you can opt to learn. Although you are not required to master each and every programming language instead you can opt for a few (even a single one!) as per your requirements and area of interest. Also, you can opt for GeeksforGeeks online programming courses for Java, Python, C++, etc. to excel in your coding skills.",
+        "photoURL":"https://i.ibb.co/Xk4RYx2/programming.png",
+        "courses_category":[
+            {
+                "id":"01",
+                "name":"C"
+            },
+            {
+                "id":"02",
+                "name":"C++"    
+
+            },
+            {
+                "id":"03",
+                "name":"JAVA"
+
+            },
+            {
+                "id":"04",
+                "name":"PYTHO"
+
+            },
+            {
+                "id":"05",
+                "name":"JAVASCRIPT"
+            }  
+        ]
+    },
+    {
+        "id":"02",
+        "title":"Web Development",
+        "summery":"Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+        "photoURL":"https://i.ibb.co/w6yvQv0/web.jpg"
+    },
+    
+    {
+        "id":"03",
+        "title":"Computer Architecture",
+        "summery":"Coding The first thing that comes to everyones mind when hearing about Computer Science. Indeed Programming Languages are one of the basic and crucial aspects for all computer science students. Whether you want to go for the Software Development field, Artificial Intelligence domain, or any other field, having an understanding of programming concepts is always a must. There are numerous demanding programming languages Python, Java, Ruby, C, C++, etc. available in the market that you can opt to learn. Although you are not required to master each and every programming language instead you can opt for a few (even a single one!) as per your requirements and area of interest. Also, you can opt for GeeksforGeeks online programming courses for Java, Python, C++, etc. to excel in your coding skills.",
+        "photoURL":"https://i.ibb.co/DQj4M0S/computer-architecture.jpg"
+    },
+    {
+        "id":"04",
+        "title":"Operating Systems",
+        "summery":"Coding The first thing that comes to everyones mind when hearing about Computer Science. Indeed Programming Languages are one of the basic and crucial aspects for all computer science students. Whether you want to go for the Software Development field, Artificial Intelligence domain, or any other field, having an understanding of programming concepts is always a must. There are numerous demanding programming languages Python, Java, Ruby, C, C++, etc. available in the market that you can opt to learn. Although you are not required to master each and every programming language instead you can opt for a few (even a single one!) as per your requirements and area of interest. Also, you can opt for GeeksforGeeks online programming courses for Java, Python, C++, etc. to excel in your coding skills.",
+        "photoURL":"https://i.ibb.co/Pz1LM9X/operating-system.webp"
+    },
+    {
+        "id":"05",
+        "title":"Mathematics",
+        "summery":"Coding The first thing that comes to everyones mind when hearing about Computer Science. Indeed Programming Languages are one of the basic and crucial aspects for all computer science students. Whether you want to go for the Software Development field, Artificial Intelligence domain, or any other field, having an understanding of programming concepts is always a must. There are numerous demanding programming languages Python, Java, Ruby, C, C++, etc. available in the market that you can opt to learn. Although you are not required to master each and every programming language instead you can opt for a few (even a single one!) as per your requirements and area of interest. Also, you can opt for GeeksforGeeks online programming courses for Java, Python, C++, etc. to excel in your coding skills.",
+        "photoURL":"https://i.ibb.co/QjN48Mv/mathmethics.jpg"
+    },
+    {
+        "id":"06",
+        "title":"Database Management",
+        "summery":"Coding The first thing that comes to everyones mind when hearing about Computer Science. Indeed Programming Languages are one of the basic and crucial aspects for all computer science students. Whether you want to go for the Software Development field, Artificial Intelligence domain, or any other field, having an understanding of programming concepts is always a must. There are numerous demanding programming languages Python, Java, Ruby, C, C++, etc. available in the market that you can opt to learn. Although you are not required to master each and every programming language instead you can opt for a few (even a single one!) as per your requirements and area of interest. Also, you can opt for GeeksforGeeks online programming courses for Java, Python, C++, etc. to excel in your coding skills.",
+        "photoURL":"https://i.ibb.co/Lvm2kxT/database-blue.png"
+    },
+    {
+        "id":"07",
+        "title":"Computer Networks",
+        "summery":"Coding The first thing that comes to everyones mind when hearing about Computer Science. Indeed Programming Languages are one of the basic and crucial aspects for all computer science students. Whether you want to go for the Software Development field, Artificial Intelligence domain, or any other field, having an understanding of programming concepts is always a must. There are numerous demanding programming languages Python, Java, Ruby, C, C++, etc. available in the market that you can opt to learn. Although you are not required to master each and every programming language instead you can opt for a few (even a single one!) as per your requirements and area of interest. Also, you can opt for GeeksforGeeks online programming courses for Java, Python, C++, etc. to excel in your coding skills.",
+        "photoURL":"https://i.ibb.co/D4wJDhT/computer-networks.jpg"
+    },
+    {
+        "id":"08",
+        "title":"Data Structure & Algorithms",
+        "summery":"Coding The first thing that comes to everyones mind when hearing about Computer Science. Indeed Programming Languages are one of the basic and crucial aspects for all computer science students. Whether you want to go for the Software Development field, Artificial Intelligence domain, or any other field, having an understanding of programming concepts is always a must. There are numerous demanding programming languages Python, Java, Ruby, C, C++, etc. available in the market that you can opt to learn. Although you are not required to master each and every programming language instead you can opt for a few (even a single one!) as per your requirements and area of interest. Also, you can opt for GeeksforGeeks online programming courses for Java, Python, C++, etc. to excel in your coding skills.",
+        "photoURL":"https://i.ibb.co/BjH1YT6/data-structure-and-algorithom.jpg"
+    }
+]
